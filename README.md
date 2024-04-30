@@ -4,7 +4,7 @@
 
 El projecte «Cartrobot» és la construcció amb cartró i l'electrònica necessària d'un robot capaç de caminar i que estiga controlat per bluetooth. Està basat en models publicats en internet i de codi lliure.
 
-![Imatge del robot](./Images/1-cartrobot.jpeg){width="300" }
+![Imatge del robot](./Images/1-cartrobot.jpeg)
 
 ## Material
 
